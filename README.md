@@ -68,4 +68,7 @@ plant_nutrient_deficiency_detector/
 ├── new_test_images/
 ├── .gitignore
 └── .gitattributes
-<img width="476" height="358" alt="Screenshot 2026-08-21 194330" src="https://github.com/user-attachments/assets/ac500b5d-c830-48a9-83b2-41663278df3c" />
+```
+## 📸 Project Screenshot
+<img width="1282" height="680" alt="Screenshot 2025-11-16 201432" src="https://github.com/user-attachments/assets/703aaa33-64ee-42b6-bcde-bffc423a1db0" />
+
